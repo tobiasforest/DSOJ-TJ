@@ -1,0 +1,51 @@
+*************
+PROGRAM BEGIN
+*************
+
+INPUTFILE : input5.txt
+OUTPUTFILE: output5.txt
+COUNT     : 100000
+
+Sort name : Insertion Sort
+Time cost : 23.681s
+Accuracy  : Y
+Status    : Complete
+
+Sort name : Binary Insertion Sort
+Time cost : 16.407s
+Accuracy  : Y
+Status    : Complete
+
+Sort name : Shell Sort
+Time cost : 2.750s
+Accuracy  : Y
+Status    : Complete
+
+Sort name : Bubble Sort
+Time cost : 63.243s
+Accuracy  : Y
+Status    : Complete
+
+Sort name : Quick Sort
+Time cost : 0.014s
+Accuracy  : Y
+Status    : Complete
+
+Sort name : Selection Sort
+Time cost : 9.442s
+Accuracy  : Y
+Status    : Complete
+
+Sort name : Heap Sort
+Time cost : 0.022s
+Accuracy  : Y
+Status    : Complete
+
+Sort name : Merge Sort
+Time cost : 0.017s
+Accuracy  : Y
+Status    : Complete
+
+****************
+PROGRAM COMPLETE
+****************
